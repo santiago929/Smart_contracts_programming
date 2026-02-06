@@ -14,13 +14,15 @@ https://docs.openzeppelin.com/contracts/5.x/api/token/erc721
 # Project structure.
 
 crowdfunding/
-├── contracts/
-│   └── CrowdFunding.sol
-├── test/
-│   └── CrowdFunding.test.js
-├── hardhat.config.js
-├── package.json
-└── README.md
+  contracts/
+    CrowdFunding.sol
+    
+test/
+  CrowdFunding.test.js
+  
+hardhat.config.js
+package.json
+README.md
 
 
 
