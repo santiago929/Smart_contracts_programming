@@ -11,20 +11,6 @@ The smart contract allows project owners to list multiple projects and initiate 
 https://docs.openzeppelin.com/contracts/5.x/api/token/erc721
 - Fully tested with Hardhat, Mocha and Chai.
 
-# Project structure.
-
-crowdfunding/
-  contracts/
-    CrowdFunding.sol
-    
-test/
-  CrowdFunding.test.js
-  
-hardhat.config.js
-package.json
-README.md
-
-
 
 
 
